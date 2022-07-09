@@ -60,3 +60,5 @@ If newer libraries exist edit script paths for changes
 # Estimated Run Time ~ 30 - 50 Minutes @ 10mbps download speed.
 ### - Special thanks to  Youtube's meteoadriatic, GitHub user jamal919, University of Manchester's  Doug L, University of Tunis El Manar's Hosni S.
 
+### Sponsorships and donations accepted but NOT required
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/whatheway)
